@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](https://github.com/MuhammadJunaid80/MuhammadJunaid80/blob/main/AAA.jpeg)
 
 <h1 align="center">Hi, I'm Muhammad Junaid 👋</h1>
